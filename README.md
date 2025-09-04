@@ -5,18 +5,18 @@
 
 ---
 
-## 📌 项目亮点 (Highlights)
+## 项目要点 (Highlights)
 
-- 📈 实现多种基于深度强化学习的投资组合策略  
+- 实现多种基于深度强化学习的投资组合策略  
   *Implemented CNN, RNN, and LSTM-based strategies for portfolio selection*
 
-- 🧠 引入多目标强化学习，优化风险/收益平衡  
+- 引入多目标强化学习，优化风险/收益平衡  
   *Introduced multi-objective reward functions to balance return and volatility*
 
-- 🔁 使用 NSGA-II 遗传算法优化策略选择  
+- 使用 NSGA-II 遗传算法优化策略选择  
   *Used NSGA-II to find Pareto-optimal strategies*
 
-- 🧪 多轮回测显著优于基准策略  
+- 多轮回测显著优于基准策略  
   *Achieved better performance than baseline methods (CRP, OLMAR)*
 
 ---
